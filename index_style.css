@@ -13,7 +13,7 @@ h2{ font-family: serif;
 }
 body{
     background-color: #2f0fe2;
-    background-image: url(live.webp)
+    background-image: url(live.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
